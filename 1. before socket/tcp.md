@@ -16,8 +16,8 @@ packet consist following 5 layers
 4. Transport (TCP/UDP, Network and Transport combined formed TCP/IP. Transport layer creates 2^16 ports on system)
 5. Application (HTTP, FTP, SMTP, SSH)
 
---HTTP use Trasnport layer TCP protocol for data transfer.--
---Websockets also use TCP protocol.--
+**HTTP use Trasnport layer TCP protocol for data transfer.**
+**Websockets also use TCP protocol.**
 
 ### UDP (user datagram protocol)
 
